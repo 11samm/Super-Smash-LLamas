@@ -7,7 +7,7 @@ Super Smash Llamas is a fast-paced multiplayer game where up to 16 players compe
  Players spawn on one of six maps with a random weapon that switches every 16 seconds.
 
 ### Ability Spawns:
- Every 30 seconds, abilities appear in the center of the map to provide players with strategic advantages.
+ Every 30 seconds, one of 8 abilities appear in the center of the map to provide players with strategic advantages.
 
 ### Health System:
  Players have two types of health:
